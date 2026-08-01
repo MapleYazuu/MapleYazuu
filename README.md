@@ -6,6 +6,12 @@
 > * I want to create good programs.
 > * NOW I AM A NOOB,BUT I WILL CONTINUE TO LEARN.
 ***
+### Target
+* [x] Being alive
+* [ ] Be satisfied with myself.
+***
+*Future unlock......* 
+**Finally, I'll put a Sakuya here.**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⢀⡀⠀⢰⣞⠉⠉⠉⠉⢹⡆⠀⠀⣖⡀⠒⠲⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠉⠀⠀⠸⡓⠒⠉⢸⠀⠀⠀⠀⢸⠈⠙⠒⣻⠃⠀⠀⢸⠓⠦⠤⠖⠦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        ⠀⠀    
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡁⠀⠀⠀⠀⠀⣓⡤⠔⠚⠚⠉⠉⠉⠉⠉⠑⠒⠓⠢⠤⢄⣎⢀⡠⠀⠀⣰⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                
