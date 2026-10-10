@@ -30,11 +30,11 @@
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![微信小程序](https://img.shields.io/badge/WeChat_MiniProgram-07C160?style=flat-square&logo=wechat&logoColor=white)
 
-## 📊 GitHub 数据
+## 📊 GitHub 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MapleYazuu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MapleYazuu&layout=compact&theme=radical)
 ***
 ### Target
 * [x] Being alive
