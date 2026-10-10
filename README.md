@@ -6,9 +6,9 @@
 > * NOW I AM A NOOB,BUT I WILL CONTINUE TO LEARN.
 
 ## ⚡Favorite 
-Proverb: **不满足于「能跑」，追求「能讲清楚为什么」**
+*Proverb:****不满足于「能跑」，追求「能讲清楚为什么」***
 
-LuckyNumber: 200!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*LuckyNumber:* **200!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 ## 🛠️ Technology Stack
 
 ### BackEnd
